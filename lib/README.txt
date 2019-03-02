@@ -1,0 +1,1 @@
+this directory holds the three part libraries both *.so and source codes.
